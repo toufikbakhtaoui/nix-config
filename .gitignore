@@ -1,0 +1,8 @@
+# Hardware configuration
+hardware-configuration.nix
+
+# Synology secrets
+smb-secrets
+
+# Intellij folder
+.idea
